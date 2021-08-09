@@ -29,5 +29,5 @@
     { "id": 2, "number": "2002", "type": "Suite" },
     { "id": 3, "number": "3001", "type": "Couple" },
     { "id": 4, "number": "3002", "type": "Couple" }
-  ],
+  ]
 }
