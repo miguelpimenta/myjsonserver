@@ -22,7 +22,7 @@
   "rooms": [
     { "id": 1, "number": "2001", "type": "Single", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] },
     { "id": 2, "number": "2002", "type": "Suite", "amenities": [ "Bathtub", "Balcony" ] },
-    { "id": 3, "number": "3001", "type": "Couple" "amenities": [ "Balcony", "View to the Sea", "Minibar" ] },
-    { "id": 4, "number": "3002", "type": "Couple" "amenities": [ "Bathtub", "Minibar" ] }
+    { "id": 3, "number": "3001", "type": "Couple", "amenities": [ "Balcony", "View to the Sea", "Minibar" ] },
+    { "id": 4, "number": "3002", "type": "Couple", "amenities": [ "Bathtub", "Minibar" ] }
   ]
 }
