@@ -19,7 +19,7 @@
     { "id": 2, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
     { "id": 3, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/011_tqwu0p.jpg" },
     { "id": 4, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/004_sa5lkn.png" },
-    { "id": 5, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" },
+    { "id": 5, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
   ],
   "rooms": [
     { "id": 1, "number": "2001", "type": "Single", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] },
