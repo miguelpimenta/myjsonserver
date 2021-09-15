@@ -5,21 +5,22 @@
     { "id": 3, "title": "Post 3", "description": "Bla bla bla bla..." },
     { "id": 4, "title": "Post 4", "description": "Bla bla bla bla..." }
   ],
-  "orders": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "roomTypes": [
     { "id": 1, "description": "Single" },
     { "id": 2, "description": "Twin" },
     { "id": 3, "description": "Double Twin" }
   ],
+  "roomPrices": [
+    { "id": 1, "type": "Single", "price": "100€"},
+    { "id": 2, "type": "Twin", "price": "100€"},
+    { "id": 3, "type": "Double Twin", "price": "100€"}
+  ],
   "photos": [
-    { "id": 1, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 1, "description": "Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
     { "id": 2, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 3, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/011_tqwu0p.jpg" },
-    { "id": 4, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/004_sa5lkn.png" },
-    { "id": 5, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
+    { "id": 3, "description": "Pool", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/011_tqwu0p.jpg" },
+    { "id": 4, "description": "004_sa5lkn", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/004_sa5lkn.png" },
+    { "id": 5, "description": "Some description", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
   ],
   "rooms": [
     { "id": 1, "number": "2001", "type": "Single", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] },
