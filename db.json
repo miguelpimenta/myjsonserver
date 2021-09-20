@@ -20,10 +20,7 @@
     { "id": 2, "description": "Bathtub & Shower" },
     { "id": 3, "description": "MiniBar" },
     { "id": 4, "description": "Desk" },
-    { "id": 5, "description": "Balcony" },
-    { "id": 6, "description": "Dinner" },
-    { "id": 7, "description": "Breakfast" },
-    { "id": 8, "description": "Breakfast + Lunch" }
+    { "id": 5, "description": "Balcony" }
   ],
   "photos": [
     { "id": 1, "description": "Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
