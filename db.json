@@ -1,10 +1,4 @@
 {
-  "products": [
-    { "id": 1, "title": "Post 1", "description": "Bla bla bla bla..." },
-    { "id": 2, "title": "Post 2", "description": "Bla bla bla bla..." },
-    { "id": 3, "title": "Post 3", "description": "Bla bla bla bla..." },
-    { "id": 4, "title": "Post 4", "description": "Bla bla bla bla..." }
-  ],
   "roomTypes": [
     { "id": 1, "description": "Single" },
     { "id": 2, "description": "Twin" },
