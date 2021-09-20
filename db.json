@@ -15,7 +15,7 @@
     { "id": 3, "description": "MiniBar" },
     { "id": 4, "description": "Desk" },
     { "id": 5, "description": "Balcony" },
-    { "id": 6, "description": "Breakfast" }
+    { "id": 6, "description": "Breakfast" },
     { "id": 7, "description": "Breakfast + Lunch" }
     
   ],
