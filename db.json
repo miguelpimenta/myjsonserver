@@ -10,13 +10,13 @@
     { "id": 3, "type": "Double Twin", "price": "100€"}
   ],
   "amenities": [
-    { "id": 1, "description": "Bathtub" },
-    { "id": 2, "description": "Bathtub & Shower" },
-    { "id": 3, "description": "MiniBar" },
-    { "id": 4, "description": "Desk" },
-    { "id": 5, "description": "Balcony" },
-    { "id": 6, "description": "Breakfast" },
-    { "id": 7, "description": "Breakfast + Lunch" }
+    { "id": 1, "description": "Bathtub", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 2, "description": "Bathtub & Shower", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 3, "description": "MiniBar", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 4, "description": "Desk", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 5, "description": "Balcony", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 6, "description": "Breakfast", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
+    { "id": 7, "description": "Breakfast + Lunch", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" }
     
   ],
   "photos": [
