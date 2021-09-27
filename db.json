@@ -16,8 +16,7 @@
     { "id": 4, "description": "Desk", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
     { "id": 5, "description": "Balcony", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
     { "id": 6, "description": "Breakfast", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 7, "description": "Breakfast + Lunch", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" }
-    
+    { "id": 7, "description": "Breakfast + Lunch", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" }    
   ],
   "photos": [
     { "id": 1, "description": "Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
@@ -26,10 +25,10 @@
     { "id": 4, "description": "004_sa5lkn", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/004_sa5lkn.png" },
     { "id": 5, "description": "Some description", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
   ],
-  "rooms": [
-    { "id": 1, "number": "2001", "type": "Single", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] },
-    { "id": 2, "number": "2002", "type": "Suite", "amenities": [ "Bathtub", "Balcony" ] },
-    { "id": 3, "number": "3001", "type": "Couple", "amenities": [ "Balcony", "View to the Sea", "Minibar" ] },
-    { "id": 4, "number": "3002", "type": "Couple", "amenities": [ "Bathtub", "Minibar" ] }
+  "rooms": [ 
+    { "id": 1, "type": "Single", "price": "100€", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": 2,"type": "Suite", "price": "200€", "amenities": [ "Bathtub", "Balcony" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": 3, "type": "Couple",  "price": "150€", "amenities": [ "Balcony", "View to the Sea", "Minibar" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": 4, "type": "Couple",  "price": "150€", "amenities": [ "Bathtub", "Minibar" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" }
   ]
 }
