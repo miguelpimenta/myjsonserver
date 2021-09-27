@@ -26,9 +26,9 @@
     { "id": 5, "description": "Some description", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
   ],
   "rooms": [ 
-    { "id": 1, "type": "Single", "price": "100€", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 2,"type": "Suite", "price": "200€", "amenities": [ "Bathtub", "Balcony" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 3, "type": "Couple",  "price": "150€", "amenities": [ "Balcony", "View to the Sea", "Minibar" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 4, "type": "Couple",  "price": "150€", "amenities": [ "Bathtub", "Minibar" ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" }
+    { "id": 1, "type": "Single", "price": "100€", "info": [ "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": 2,"type": "Suite", "price": "200€", "info": [ "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony" ] ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": 3, "type": "Couple",  "price": "150€", "info": [ "description": "Bla Bla bla", "amenities": [ "Balcony", "View to the Sea", "Minibar" ] ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": 4, "type": "Couple",  "price": "150€", "info": [ "description": "Bla Bla bla", "amenities": [ "Bathtub", "Minibar" ] ], "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" }
   ]
 }
