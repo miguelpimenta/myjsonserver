@@ -26,9 +26,9 @@
     { "id": 5, "description": "Some description", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
   ],
   "rooms": [ 
-    { "id": 1, "type": "Single", "price": "100€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 2,"type": "Suite", "price": "200€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 3, "type": "Couple",  "price": "150€", "info": { "description": "Bla Bla bla", "amenities": [ "Balcony", "View to the Sea", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 4, "type": "Couple",  "price": "150€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" }
+    { "id": "DA39A8D9-4FFD-45D8-A4DA-08D97EB1595E", "type": "Single", "price": "100€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": "B7AEA792-1CC6-4E02-B924-08D97EB1E756","type": "Suite", "price": "200€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": "AE3B635F-55DE-4360-057A-08D97EB24953", "type": "Couple",  "price": "150€", "info": { "description": "Bla Bla bla", "amenities": [ "Balcony", "View to the Sea", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
+    { "id": "0F40196B-A3DC-4180-D62A-08D97EB2A8D0", "type": "Couple",  "price": "150€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" }
   ]
 }
