@@ -1,34 +1,136 @@
 {
-  "roomTypes": [
-    { "id": 1, "description": "Single" },
-    { "id": 2, "description": "Twin" },
-    { "id": 3, "description": "Double Twin" }
-  ],
-  "roomPrices": [
-    { "id": 1, "type": "Single", "price": "100€"},
-    { "id": 2, "type": "Twin", "price": "100€"},
-    { "id": 3, "type": "Double Twin", "price": "100€"}
-  ],
-  "amenities": [
-    { "id": 1, "description": "Bathtub", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 2, "description": "Bathtub & Shower", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 3, "description": "MiniBar", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 4, "description": "Desk", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 5, "description": "Balcony", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 6, "description": "Breakfast", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 7, "description": "Breakfast + Lunch", "image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" }    
-  ],
-  "photos": [
-    { "id": 1, "description": "Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg" },
-    { "id": 2, "description": "Bla Bla Bla", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": 3, "description": "Pool", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/011_tqwu0p.jpg" },
-    { "id": 4, "description": "004_sa5lkn", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/004_sa5lkn.png" },
-    { "id": 5, "description": "Some description", "url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png" }
-  ],
-  "rooms": [ 
-    { "id": "DA39A8D9-4FFD-45D8-A4DA-08D97EB1595E", "type": "Single", "price": "100€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony", "View to the Sea", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": "B7AEA792-1CC6-4E02-B924-08D97EB1E756","type": "Suite", "price": "200€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Balcony" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": "AE3B635F-55DE-4360-057A-08D97EB24953", "type": "Couple",  "price": "150€", "info": { "description": "Bla Bla bla", "amenities": [ "Balcony", "View to the Sea", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" },
-    { "id": "0F40196B-A3DC-4180-D62A-08D97EB2A8D0", "type": "Couple",  "price": "150€", "info": { "description": "Bla Bla bla", "amenities": [ "Bathtub", "Minibar" ] }, "image": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg" }
-  ]
+	"roomTypes": [{
+			"id": 1,
+			"description": "Single"
+		},
+		{
+			"id": 2,
+			"description": "Twin"
+		},
+		{
+			"id": 3,
+			"description": "Double Twin"
+		}
+	],
+	"roomPrices": [{
+			"id": 1,
+			"type": "Single",
+			"price": "100€"
+		},
+		{
+			"id": 2,
+			"type": "Twin",
+			"price": "100€"
+		},
+		{
+			"id": 3,
+			"type": "Double Twin",
+			"price": "100€"
+		}
+	],
+	"amenities": [{
+			"id": 1,
+			"description": "Bathtub",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 2,
+			"description": "Bathtub & Shower",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 3,
+			"description": "MiniBar",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 4,
+			"description": "Desk",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 5,
+			"description": "Balcony",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 6,
+			"description": "Breakfast",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 7,
+			"description": "Breakfast + Lunch",
+			"image": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		}
+	],
+	"photos": [{
+			"id": 1,
+			"description": "Bla Bla",
+			"url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/013_cemz5o.jpg"
+		},
+		{
+			"id": 2,
+			"description": "Bla Bla Bla",
+			"url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"
+		},
+		{
+			"id": 3,
+			"description": "Pool",
+			"url": "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/011_tqwu0p.jpg"
+		},
+		{
+			"id": 4,
+			"description": "004_sa5lkn",
+			"url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/004_sa5lkn.png"
+		},
+		{
+			"id": 5,
+			"description": "Some description",
+			"url": "https://res.cloudinary.com/meipw/image/upload/v1631524944/Tests/003_tp3xsm.png"
+		}
+	],
+	"rooms": [{
+			"id": "DA39A8D9-4FFD-45D8-A4DA-08D97EB1595E",
+			"type": "Single",
+			"price": "100€",
+			"info": {
+				"description": "Bla Bla bla",
+				"amenities": ["Bathtub", "Balcony", "View to the Sea", "Minibar"],
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+			}
+		},
+		{
+			"id": "B7AEA792-1CC6-4E02-B924-08D97EB1E756",
+			"type": "Suite",
+			"price": "200€",
+			"info": {
+				"description": "Bla Bla bla",
+				"amenities": ["Bathtub", "Balcony"],
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+			}
+		},
+		{
+			"id": "AE3B635F-55DE-4360-057A-08D97EB24953",
+			"type": "Couple",
+			"price": "150€",
+			"info": {
+				"description": "Bla Bla bla",
+				"amenities": ["Balcony", "View to the Sea", "Minibar"],
+
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+			}
+		},
+		{
+			"id": "0F40196B-A3DC-4180-D62A-08D97EB2A8D0",
+			"type": "Couple",
+			"price": "150€",
+			"info": {
+				"description": "Bla Bla bla",
+				"amenities": ["Bathtub", "Minibar"],
+
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+			}
+		}
+	]
 }
