@@ -107,7 +107,7 @@
 			"info": {
 				"description": "Bla Bla bla",
 				"amenities": ["Bathtub", "Balcony"],
-				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1633039776/Tests/room02_b7gkpe.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"description": "Bla Bla bla",
 				"amenities": ["Balcony", "View to the Sea", "Minibar"],
 
-				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1633039776/Tests/room05_jats9a.jpg", "https://res.cloudinary.com/meipw/image/upload/v1633039776/Tests/room04_apgklz.jpg"]
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 				"description": "Bla Bla bla",
 				"amenities": ["Bathtub", "Minibar"],
 
-				"images": ["https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg", "https://res.cloudinary.com/meipw/image/upload/v1631524943/Tests/012_l6stkl.jpg"]
+				"images": ["https://res.cloudinary.com/meipw/image/upload/v1633039776/Tests/room03_yyknti.jpg", "https://res.cloudinary.com/meipw/image/upload/v1633039776/Tests/room01_py1va0.jpg"]
 			}
 		}
 	]
